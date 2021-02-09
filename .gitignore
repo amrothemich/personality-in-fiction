@@ -123,3 +123,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac metadata
+*DS_Store*
+
+# Data
+data/*
+.DS_Store
+.DS_Store
